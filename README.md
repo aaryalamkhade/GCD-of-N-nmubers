@@ -7,3 +7,4 @@ The GCD is used for a variety of applications in number theory, particularly in 
 Enter the count of Numbers of which you want a GCD
 Enter the Nmbers
 # Picture
+![Screenshot (135)](https://user-images.githubusercontent.com/49730497/85283874-bfe3b500-b4ab-11ea-9126-c26072c2dd9f.png)
